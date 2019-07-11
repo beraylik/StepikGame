@@ -13,7 +13,6 @@
 		B345375222CF904D00A504FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B345375122CF904D00A504FA /* Assets.xcassets */; };
 		B345375522CF904D00A504FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B345375322CF904D00A504FA /* LaunchScreen.storyboard */; };
 		B345375D22D31FFC00A504FA /* GameFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B345375C22D31FFC00A504FA /* GameFieldView.swift */; };
-		B370D63D22D74DB500264AE1 /* GameControlView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B370D63C22D74DB500264AE1 /* GameControlView.xib */; };
 		B370D63F22D74E6500264AE1 /* GameControlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B370D63E22D74E6500264AE1 /* GameControlView.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 		B345375422CF904D00A504FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B345375622CF904D00A504FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B345375C22D31FFC00A504FA /* GameFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameFieldView.swift; sourceTree = "<group>"; };
-		B370D63C22D74DB500264AE1 /* GameControlView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GameControlView.xib; sourceTree = "<group>"; };
 		B370D63E22D74E6500264AE1 /* GameControlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameControlView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,7 +62,6 @@
 				B345374C22CF904900A504FA /* ViewController.swift */,
 				B345375C22D31FFC00A504FA /* GameFieldView.swift */,
 				B370D63E22D74E6500264AE1 /* GameControlView.swift */,
-				B370D63C22D74DB500264AE1 /* GameControlView.xib */,
 				B345374E22CF904900A504FA /* Main.storyboard */,
 				B345375122CF904D00A504FA /* Assets.xcassets */,
 				B345375322CF904D00A504FA /* LaunchScreen.storyboard */,
@@ -133,7 +130,6 @@
 			files = (
 				B345375522CF904D00A504FA /* LaunchScreen.storyboard in Resources */,
 				B345375222CF904D00A504FA /* Assets.xcassets in Resources */,
-				B370D63D22D74DB500264AE1 /* GameControlView.xib in Resources */,
 				B345375022CF904900A504FA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
